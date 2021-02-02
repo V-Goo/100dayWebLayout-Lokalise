@@ -1,0 +1,27 @@
+{
+  // "workbench.colorTheme": "Pop N' Lock Theme by Luxcium ✨",
+  // "editor.fontSize": 24,
+  "editor.fontSize": 16,
+  // "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "JatBrains Mono",
+  "editor.fontLigatures": false,
+  "better-comments.multilineComments": true,
+  "liveServer.settings.port": 5506,
+  "liveServer.settings.CustomBrowser" : "chrome",
+  // "liveServer.settings.AdvanceCustomBrowserCmdLine": "/Applications/Firefox Developer Edition.app",
+  "stylelint.enable": false,
+
+
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#fac663",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#f8b432",
+    "titleBar.activeBackground": "#fac663",
+    "activityBarBadge.background": "#049b67",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#fac66399",
+    "titleBar.inactiveForeground": "#15202b99",
+
+  },
+  "peacock.color": "#FAC663"
+}
